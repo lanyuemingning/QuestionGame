@@ -1,0 +1,65 @@
+ManifestFileVersion: 0
+CRC: 2244388271
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 193d4dc5275487584f03947324348f00
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 345ffe4fbdc1ea4276cd00b57076bb88
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 193d4dc5275487584f03947324348f00
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3312d7739989d2b4e91e6319e9a96d76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Resources/ABResource/Prefab/UI/GameUI/UITrailShow/16.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameUI/UITrailShow/17.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameUI/UITrailShow/6.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameUI/UITrailShow/5.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameUI/UITrailShow/10.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameUI/UITrailShow/11.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameUI/UITrailShow/18.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameUI/UITrailShow/4.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameUI/UITrailShow/3.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameUI/UITrailShow/8.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameUI/UITrailShow/13.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameUI/UITrailShow/14.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameUI/UITrailShow/15.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameUI/UITrailShow/7.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameUI/UITrailShow/20.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameUI/UITrailShow/9.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameUI/UITrailShow/12.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameUI/UITrailShow/2.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameUI/UITrailShow/1.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameUI/UITrailShow/19.prefab
+Dependencies:
+- E:/SelectionGame/AssetBundles/Android/animation
+- E:/SelectionGame/AssetBundles/Android/trail

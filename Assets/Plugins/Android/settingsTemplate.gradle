@@ -1,0 +1,40 @@
+pluginManagement {
+    repositories {
+        **ARTIFACTORYREPOSITORY**
+        gradlePluginPortal()
+        google()
+        jcenter()
+        mavenCentral()
+    }
+}
+
+include ':launcher', ':unityLibrary'
+**INCLUDES**
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+    repositories {
+        **ARTIFACTORYREPOSITORY**
+        google()
+        mavenCentral()
+// Android Resolver Repos Start
+        def unityProjectPath = $/file:///**DIR_UNITYPROJECT**/$.replace("\\", "/")
+        maven {
+            url "https://android-sdk.is.com/" // Assets/AnyThinkPlugin/AnyThinkAds/Plugins/Android/NonChina/mediation/ironsource/Editor/Dependencies.xml:5
+        }
+        maven {
+            url "https://dl-maven-android.mintegral.com/repository/mbridge_android_sdk_oversea" // Assets/AnyThinkPlugin/AnyThinkAds/Plugins/Android/NonChina/mediation/mintegral/Editor/Dependencies.xml:5
+        }
+        maven {
+            url "https://artifact.bytedance.com/repository/pangle" // Assets/AnyThinkPlugin/AnyThinkAds/Plugins/Android/NonChina/mediation/pangle/Editor/Dependencies.xml:5
+        }
+        maven {
+            url "https://sdk.tapjoy.com/" // Assets/AnyThinkPlugin/AnyThinkAds/Plugins/Android/NonChina/mediation/tapjoy/Editor/Dependencies.xml:5
+        }
+        mavenLocal()
+// Android Resolver Repos End
+        flatDir {
+            dirs "${project(':unityLibrary').projectDir}/libs"
+        }
+    }
+}

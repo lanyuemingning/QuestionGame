@@ -1,0 +1,61 @@
+{ 
+    "TagList":  [
+    {
+        "Id":1,
+        "TypeName":"Text_Friend_TypeName1", 
+        "DetailDesc":"Text_Friend_DetailDesc1",
+        "FunDesc":"Text_Friend_FunDesc1",
+        "Tag":"Text_Friend_Tag1"         
+    },
+    {
+        "Id":2,
+        "TypeName":"Text_Friend_TypeName2", 
+        "DetailDesc":"Text_Friend_DetailDesc2",
+        "FunDesc":"Text_Friend_FunDesc2",
+        "Tag":"Text_Friend_Tag2"         
+    },
+    {
+        "Id":3,
+        "TypeName":"Text_Friend_TypeName3", 
+        "DetailDesc":"Text_Friend_DetailDesc3",
+        "FunDesc":"Text_Friend_FunDesc3",
+        "Tag":"Text_Friend_Tag3"        
+    },
+    {
+        "Id":4,
+        "TypeName":"Text_Friend_TypeName4", 
+        "DetailDesc":"Text_Friend_DetailDesc4",
+        "FunDesc":"Text_Friend_FunDesc4",
+        "Tag":"Text_Friend_Tag4"     
+    },
+    {
+        "Id":5,
+        "TypeName":"Text_Friend_TypeName5", 
+        "DetailDesc":"Text_Friend_DetailDesc5",
+        "FunDesc":"Text_Friend_FunDesc5",
+        "Tag":"Text_Friend_Tag5"       
+    },
+    {
+        "Id":6,
+        "TypeName":"Text_Friend_TypeName6", 
+        "DetailDesc":"Text_Friend_DetailDesc6",
+        "FunDesc":"Text_Friend_FunDesc6",
+        "Tag":"Text_Friend_Tag6"       
+    },
+    {
+        "Id":7,
+        "TypeName":"Text_Friend_TypeName7", 
+        "DetailDesc":"Text_Friend_DetailDesc7",
+        "FunDesc":"Text_Friend_FunDesc7",
+        "Tag":"Text_Friend_Tag7"       
+    },
+    {
+        "Id":8,
+        "TypeName":"Text_Friend_TypeName8", 
+        "DetailDesc":"Text_Friend_DetailDesc8",
+        "FunDesc":"Text_Friend_FunDesc8",
+        "Tag":"Text_Friend_Tag8"       
+    }
+]
+
+}

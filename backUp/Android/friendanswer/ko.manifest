@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 20885821
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f49b9cd4f91a8c6d4efb5cd36f1ac4fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f49b9cd4f91a8c6d4efb5cd36f1ac4fd
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Sprite/Friend/FriendAnswer/KO/1.png
+- Assets/Resources/Sprite/Job/JobAnswer/KO/6.png
+- Assets/Resources/Sprite/Job/JobAnswer/KO/4.png
+- Assets/Resources/Sprite/Friend/FriendAnswer/KO/3.png
+- Assets/Resources/Sprite/Job/JobAnswer/KO/2.png
+- Assets/Resources/Sprite/Friend/FriendAnswer/KO/6.png
+- Assets/Resources/Sprite/Job/JobAnswer/KO/1.png
+- Assets/Resources/Sprite/Friend/FriendAnswer/KO/2.png
+- Assets/Resources/Sprite/Job/JobAnswer/KO/8.png
+- Assets/Resources/Sprite/Job/JobAnswer/KO/5.png
+- Assets/Resources/Sprite/Job/JobAnswer/KO/7.png
+- Assets/Resources/Sprite/Friend/FriendAnswer/KO/5.png
+- Assets/Resources/Sprite/Friend/FriendAnswer/KO/4.png
+- Assets/Resources/Sprite/Job/JobAnswer/KO/3.png
+Dependencies: []

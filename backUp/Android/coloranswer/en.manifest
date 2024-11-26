@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2746942629
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a0dccfaaaeccd50e252ed25ad6134c65
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a0dccfaaaeccd50e252ed25ad6134c65
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Sprite/Color/ColorAnswer/EN/3.png
+- Assets/Resources/Sprite/Color/ColorAnswer/EN/1.png
+- Assets/Resources/Sprite/Color/ColorAnswer/EN/4.png
+- Assets/Resources/Sprite/Color/ColorAnswer/EN/2.png
+- Assets/Resources/Sprite/Color/ColorAnswer/EN/5.png
+Dependencies: []

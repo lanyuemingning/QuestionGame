@@ -1,0 +1,142 @@
+ManifestFileVersion: 0
+CRC: 1092951453
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: font
+      Dependencies: {}
+    Info_1:
+      Name: animation
+      Dependencies: {}
+    Info_2:
+      Name: prefab/ui/others
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: animation
+        Dependency_2: common
+        Dependency_3: prefab/ui/gameanswer
+        Dependency_4: animalanswer/zh
+        Dependency_5: childanswer
+    Info_3:
+      Name: trailanswer/zh
+      Dependencies: {}
+    Info_4:
+      Name: common
+      Dependencies: {}
+    Info_5:
+      Name: war
+      Dependencies: {}
+    Info_6:
+      Name: color
+      Dependencies: {}
+    Info_7:
+      Name: friendanswer/ko
+      Dependencies: {}
+    Info_8:
+      Name: romance
+      Dependencies: {}
+    Info_9:
+      Name: jobanswer/zh
+      Dependencies: {}
+    Info_10:
+      Name: coloranswer/ko
+      Dependencies: {}
+    Info_11:
+      Name: prefab/ui/gameanswer
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: common
+        Dependency_2: animalanswer/zh
+        Dependency_3: childanswer
+    Info_12:
+      Name: romanceanswer/ko
+      Dependencies: {}
+    Info_13:
+      Name: zombie
+      Dependencies: {}
+    Info_14:
+      Name: prefab/ui/gameui
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: common
+        Dependency_2: color
+        Dependency_3: romance
+        Dependency_4: job
+        Dependency_5: friend
+    Info_15:
+      Name: romanceanswer/zh
+      Dependencies: {}
+    Info_16:
+      Name: job
+      Dependencies: {}
+    Info_17:
+      Name: coloranswer/ja
+      Dependencies: {}
+    Info_18:
+      Name: jobanswer/ja
+      Dependencies: {}
+    Info_19:
+      Name: coloranswer/en
+      Dependencies: {}
+    Info_20:
+      Name: animalanswer/zh
+      Dependencies: {}
+    Info_21:
+      Name: animalanswer/ja
+      Dependencies: {}
+    Info_22:
+      Name: jobanswer/ko
+      Dependencies: {}
+    Info_23:
+      Name: island
+      Dependencies: {}
+    Info_24:
+      Name: romanceanswer/en
+      Dependencies: {}
+    Info_25:
+      Name: uitrailshow
+      Dependencies:
+        Dependency_0: animation
+        Dependency_1: trail
+    Info_26:
+      Name: animalanswer/en
+      Dependencies: {}
+    Info_27:
+      Name: jobanswer/en
+      Dependencies: {}
+    Info_28:
+      Name: animalanswer/ko
+      Dependencies: {}
+    Info_29:
+      Name: childanswer
+      Dependencies: {}
+    Info_30:
+      Name: romanceanswer/ja
+      Dependencies: {}
+    Info_31:
+      Name: friendanswer/zh
+      Dependencies: {}
+    Info_32:
+      Name: coloranswer/zh
+      Dependencies: {}
+    Info_33:
+      Name: childshow
+      Dependencies: {}
+    Info_34:
+      Name: friend
+      Dependencies: {}
+    Info_35:
+      Name: friendanswer/en
+      Dependencies: {}
+    Info_36:
+      Name: animal
+      Dependencies: {}
+    Info_37:
+      Name: trailanswer/ko
+      Dependencies: {}
+    Info_38:
+      Name: friendanswer/ja
+      Dependencies: {}
+    Info_39:
+      Name: trail
+      Dependencies: {}

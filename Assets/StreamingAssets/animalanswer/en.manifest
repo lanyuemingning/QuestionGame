@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1485978680
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f297610d570172d00004b6e2054f7510
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f297610d570172d00004b6e2054f7510
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/ABResource/Sprite/Animal/AnimalAnswer/EN/4.png
+- Assets/Resources/ABResource/Sprite/Animal/AnimalAnswer/EN/3.png
+- Assets/Resources/ABResource/Sprite/Animal/AnimalAnswer/EN/1.png
+- Assets/Resources/ABResource/Sprite/Animal/AnimalAnswer/EN/5.png
+- Assets/Resources/ABResource/Sprite/Animal/AnimalAnswer/EN/2.png
+Dependencies: []

@@ -1,0 +1,126 @@
+ManifestFileVersion: 0
+CRC: 125131845
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: prefab/ui/gameanswer
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: common
+        Dependency_2: animalanswer/zh
+        Dependency_3: childanswer
+    Info_1:
+      Name: prefab/ui/gameui
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: common
+        Dependency_2: color
+        Dependency_3: friend
+        Dependency_4: job
+        Dependency_5: romance
+    Info_2:
+      Name: font
+      Dependencies: {}
+    Info_3:
+      Name: uitrailshow
+      Dependencies:
+        Dependency_0: trail
+    Info_4:
+      Name: prefab/ui/others
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: common
+        Dependency_2: animalanswer/zh
+    Info_5:
+      Name: trail
+      Dependencies: {}
+    Info_6:
+      Name: common
+      Dependencies: {}
+    Info_7:
+      Name: trailanswer/en
+      Dependencies: {}
+    Info_8:
+      Name: trailanswer/ja
+      Dependencies: {}
+    Info_9:
+      Name: trailanswer/ko
+      Dependencies: {}
+    Info_10:
+      Name: trailanswer/zh
+      Dependencies: {}
+    Info_11:
+      Name: animalanswer/en
+      Dependencies: {}
+    Info_12:
+      Name: animalanswer/zh
+      Dependencies: {}
+    Info_13:
+      Name: animalanswer/ja
+      Dependencies: {}
+    Info_14:
+      Name: animalanswer/ko
+      Dependencies: {}
+    Info_15:
+      Name: childshow
+      Dependencies: {}
+    Info_16:
+      Name: childanswer
+      Dependencies: {}
+    Info_17:
+      Name: animal
+      Dependencies: {}
+    Info_18:
+      Name: color
+      Dependencies: {}
+    Info_19:
+      Name: friend
+      Dependencies: {}
+    Info_20:
+      Name: island
+      Dependencies: {}
+    Info_21:
+      Name: job
+      Dependencies: {}
+    Info_22:
+      Name: romance
+      Dependencies: {}
+    Info_23:
+      Name: zombie
+      Dependencies: {}
+    Info_24:
+      Name: coloranswer/en
+      Dependencies: {}
+    Info_25:
+      Name: coloranswer/ja
+      Dependencies: {}
+    Info_26:
+      Name: coloranswer/ko
+      Dependencies: {}
+    Info_27:
+      Name: coloranswer/zh
+      Dependencies: {}
+    Info_28:
+      Name: friendanswer/en
+      Dependencies: {}
+    Info_29:
+      Name: friendanswer/ja
+      Dependencies: {}
+    Info_30:
+      Name: friendanswer/ko
+      Dependencies: {}
+    Info_31:
+      Name: friendanswer/zh
+      Dependencies: {}
+    Info_32:
+      Name: romanceanswer/en
+      Dependencies: {}
+    Info_33:
+      Name: romanceanswer/ja
+      Dependencies: {}
+    Info_34:
+      Name: romanceanswer/ko
+      Dependencies: {}
+    Info_35:
+      Name: romanceanswer/zh
+      Dependencies: {}

@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1001496226
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: debfb278e8f0070468ecc226ec26173c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: debfb278e8f0070468ecc226ec26173c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Sprite/Trail/TrailAnswer/KO/1.png
+- Assets/Resources/Sprite/Trail/TrailAnswer/KO/3.png
+- Assets/Resources/Sprite/Trail/TrailAnswer/KO/5.png
+- Assets/Resources/Sprite/Trail/TrailAnswer/KO/4.png
+- Assets/Resources/Sprite/Trail/TrailAnswer/KO/2.png
+Dependencies: []

@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 787649704
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ab8b4bb55899ab51c9f3ba086e70ec96
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ab8b4bb55899ab51c9f3ba086e70ec96
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Sprite/Friend/FriendAnswer/ZH/1.png
+- Assets/Resources/Sprite/Friend/FriendAnswer/ZH/4.png
+- Assets/Resources/Sprite/Job/JobAnswer/ZH/3.png
+- Assets/Resources/Sprite/Job/JobAnswer/ZH/8.png
+- Assets/Resources/Sprite/Job/JobAnswer/ZH/4.png
+- Assets/Resources/Sprite/Job/JobAnswer/ZH/6.png
+- Assets/Resources/Sprite/Job/JobAnswer/ZH/2.png
+- Assets/Resources/Sprite/Friend/FriendAnswer/ZH/3.png
+- Assets/Resources/Sprite/Friend/FriendAnswer/ZH/2.png
+- Assets/Resources/Sprite/Friend/FriendAnswer/ZH/6.png
+- Assets/Resources/Sprite/Job/JobAnswer/ZH/5.png
+- Assets/Resources/Sprite/Friend/FriendAnswer/ZH/5.png
+- Assets/Resources/Sprite/Job/JobAnswer/ZH/1.png
+- Assets/Resources/Sprite/Job/JobAnswer/ZH/7.png
+Dependencies: []

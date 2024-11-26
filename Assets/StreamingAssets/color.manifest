@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3960919182
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 807b267025c8b457d67c7ce7aee65c12
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 807b267025c8b457d67c7ce7aee65c12
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/ABResource/Sprite/Color/ColorShow/19.png
+- Assets/Resources/ABResource/Sprite/Color/ColorShow/17.png
+- Assets/Resources/ABResource/Sprite/Color/ColorShow/2.png
+- Assets/Resources/ABResource/Sprite/Color/ColorShow/15.png
+- Assets/Resources/ABResource/Sprite/Color/ColorShow/3.png
+- Assets/Resources/ABResource/Sprite/Color/ColorShow/11.png
+- Assets/Resources/ABResource/Sprite/Color/ColorShow/13.png
+- Assets/Resources/ABResource/Sprite/Color/ColorShow/7.png
+- Assets/Resources/ABResource/Sprite/Color/ColorShow/12.png
+- Assets/Resources/ABResource/Sprite/Color/ColorShow/9.png
+- Assets/Resources/ABResource/Sprite/Color/ColorShow/18.png
+- Assets/Resources/ABResource/Sprite/Color/ColorShow/1.png
+- Assets/Resources/ABResource/Sprite/Color/ColorShow/14.png
+- Assets/Resources/ABResource/Sprite/Color/ColorShow/8.png
+- Assets/Resources/ABResource/Sprite/Color/ColorShow/16.png
+- Assets/Resources/ABResource/Sprite/Color/ColorShow/5.png
+- Assets/Resources/ABResource/Sprite/Color/ColorShow/6.png
+- Assets/Resources/ABResource/Sprite/Color/ColorShow/10.png
+- Assets/Resources/ABResource/Sprite/Color/ColorShow/20.png
+- Assets/Resources/ABResource/Sprite/Color/ColorShow/4.png
+Dependencies: []

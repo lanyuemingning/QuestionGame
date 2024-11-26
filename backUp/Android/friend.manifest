@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 2038556701
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f3a1f46b80c38fba53be722994da69d3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f3a1f46b80c38fba53be722994da69d3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Sprite/Friend/FriendShow/14.png
+- Assets/Resources/Sprite/Friend/FriendShow/4.png
+- Assets/Resources/Sprite/Friend/FriendShow/10.png
+- Assets/Resources/Sprite/Friend/FriendShow/9.png
+- Assets/Resources/Sprite/Friend/FriendShow/20.png
+- Assets/Resources/Sprite/Friend/FriendShow/19.png
+- Assets/Resources/Sprite/Friend/FriendShow/5.png
+- Assets/Resources/Sprite/Friend/FriendShow/18.png
+- Assets/Resources/Sprite/Friend/FriendShow/2.png
+- Assets/Resources/Sprite/Friend/FriendShow/15.png
+- Assets/Resources/Sprite/Friend/FriendShow/8.png
+- Assets/Resources/Sprite/Friend/FriendShow/12.png
+- Assets/Resources/Sprite/Friend/FriendShow/7.png
+- Assets/Resources/Sprite/Friend/FriendShow/13.png
+- Assets/Resources/Sprite/Friend/FriendShow/1.png
+- Assets/Resources/Sprite/Friend/FriendShow/6.png
+- Assets/Resources/Sprite/Friend/FriendShow/17.png
+- Assets/Resources/Sprite/Friend/FriendShow/16.png
+- Assets/Resources/Sprite/Friend/FriendShow/3.png
+- Assets/Resources/Sprite/Friend/FriendShow/11.png
+Dependencies: []

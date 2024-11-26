@@ -1,0 +1,95 @@
+ManifestFileVersion: 0
+CRC: 3894075554
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4fdcc07923ad2568823b1cc5e71d8167
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a370fd1e413bb1f425da5595f5ebe818
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4fdcc07923ad2568823b1cc5e71d8167
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b79595fc52688824bb5dfab7b75d1337, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c87d421f69b890e4abb130a80709c4b5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb7105c93412afa40b9e7c0961e1116c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3611774c4aa4483488143c735770423c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9e298f56abc82324686ef944a8ed92db, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aba7bf7c3fee83c4e9b823450222da6f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3d58e61a057853c40bda61803fc7dfd9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 468832fe21d1bc8448cfe7a5a08b5f28, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/Resources/ABResource/Prefab/UI/GameUI/UIFriendSelection.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameUI/UITrailSelection.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameUI/UIFeedChild.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameUI/UIJobSelection.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameUI/UIAnimalSelection.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameUI/UIRomanceSelection.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameUI/UIColorSelection.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameUI/UIWarSurvival.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameUI/UIIslandSurvival.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameUI/UIZombieSurvival.prefab
+Dependencies:
+- E:/SelectionGame/AssetBundles/Android/color
+- E:/SelectionGame/AssetBundles/Android/common
+- E:/SelectionGame/AssetBundles/Android/font
+- E:/SelectionGame/AssetBundles/Android/friend
+- E:/SelectionGame/AssetBundles/Android/job
+- E:/SelectionGame/AssetBundles/Android/romance

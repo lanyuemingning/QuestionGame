@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 2245286757
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fae56eafd773e5b914c74fbf31cdc7c0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fae56eafd773e5b914c74fbf31cdc7c0
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Sprite/Child/ChildShow/11.png
+- Assets/Resources/Sprite/Child/ChildShow/14.png
+- Assets/Resources/Sprite/Child/ChildShow/3.png
+- Assets/Resources/Sprite/Child/ChildShow/4.png
+- Assets/Resources/Sprite/Child/ChildShow/18.png
+- Assets/Resources/Sprite/Child/ChildShow/9.png
+- Assets/Resources/Sprite/Child/ChildShow/12.png
+- Assets/Resources/Sprite/Child/ChildShow/13.png
+- Assets/Resources/Sprite/Child/ChildShow/15.png
+- Assets/Resources/Sprite/Child/ChildShow/20.png
+- Assets/Resources/Sprite/Child/ChildShow/17.png
+- Assets/Resources/Sprite/Child/ChildShow/5.png
+- Assets/Resources/Sprite/Child/ChildShow/7.png
+- Assets/Resources/Sprite/Child/ChildShow/2.png
+- Assets/Resources/Sprite/Child/ChildShow/19.png
+- Assets/Resources/Sprite/Child/ChildShow/10.png
+- Assets/Resources/Sprite/Child/ChildShow/6.png
+- Assets/Resources/Sprite/Child/ChildShow/1.png
+- Assets/Resources/Sprite/Child/ChildShow/16.png
+- Assets/Resources/Sprite/Child/ChildShow/8.png
+Dependencies: []

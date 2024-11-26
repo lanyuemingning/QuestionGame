@@ -1,0 +1,40 @@
+{ 
+    "TagList":  [
+    {
+        "Id":1,
+        "TypeName":"Text_Animal_TypeName1", 
+        "DetailDesc":"Text_Animal_DetailDesc1",
+        "FunDesc":"Text_Animal_FunDesc1",
+        "Tag":"Text_Animal_Tag1"         
+    },
+    {
+        "Id":2,
+        "TypeName":"Text_Animal_TypeName2", 
+        "DetailDesc":"Text_Animal_DetailDesc2",
+        "FunDesc":"Text_Animal_FunDesc2",
+        "Tag":"Text_Animal_Tag2"         
+    },
+    {
+        "Id":3,
+        "TypeName":"Text_Animal_TypeName3", 
+        "DetailDesc":"Text_Animal_DetailDesc3",
+        "FunDesc":"Text_Animal_FunDesc3",
+        "Tag":"Text_Animal_Tag3"        
+    },
+    {
+        "Id":4,
+        "TypeName":"Text_Animal_TypeName4", 
+        "DetailDesc":"Text_Animal_DetailDesc4",
+        "FunDesc":"Text_Animal_FunDesc4",
+        "Tag":"Text_Animal_Tag4"     
+    },
+    {
+        "Id":5,
+        "TypeName":"Text_Animal_TypeName5", 
+        "DetailDesc":"Text_Animal_DetailDesc5",
+        "FunDesc":"Text_Animal_FunDesc5",
+        "Tag":"Text_Animal_Tag5"       
+    }
+]
+
+}

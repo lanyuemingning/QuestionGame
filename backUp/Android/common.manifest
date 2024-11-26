@@ -1,0 +1,79 @@
+ManifestFileVersion: 0
+CRC: 1947907305
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a53380fd93b818c5c937719dffc17cce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a53380fd93b818c5c937719dffc17cce
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Sprite/Common/lan.png
+- Assets/Resources/Sprite/Common/btn_shezhi.png
+- Assets/Resources/Sprite/Common/gou.png
+- Assets/Resources/Sprite/Common/shenlan.png
+- Assets/Resources/Sprite/Common/shezhi.png
+- Assets/Resources/Sprite/Common/zonglanneirong.png
+- Assets/Resources/Sprite/Common/baoshi_di.png
+- Assets/Resources/Sprite/Common/qipao.png
+- Assets/Resources/Sprite/Common/zomglakuang.png
+- Assets/Resources/Sprite/Common/btn_yinliang2.png
+- Assets/Resources/Sprite/Common/cheng.png
+- Assets/Resources/Sprite/Common/quguanggao.png
+- Assets/Resources/Sprite/Common/icon.png
+- Assets/Resources/Sprite/Common/neirongkuang.png
+- Assets/Resources/Sprite/Common/baoshi_2.png
+- Assets/Resources/Sprite/Common/lv.png
+- Assets/Resources/Sprite/Common/dikuang.png
+- Assets/Resources/Sprite/Common/btn_anniu_2.png
+- Assets/Resources/Sprite/Common/btn_xuanze_lan.png
+- Assets/Resources/Sprite/Common/dikuang 1.png
+- Assets/Resources/Sprite/Common/island.png
+- Assets/Resources/Sprite/Common/xuanxiang_1.png
+- Assets/Resources/Sprite/Common/btn_fanhui.png
+- Assets/Resources/Sprite/Common/bg.png
+- Assets/Resources/Sprite/Common/logoEN.png
+- Assets/Resources/Sprite/Common/di.png
+- Assets/Resources/Sprite/Common/xuanxiang_2.png
+- Assets/Resources/Sprite/Common/sanjiao.png
+- Assets/Resources/Sprite/Common/btn_xuanze_lv.png
+- Assets/Resources/Sprite/Common/zi.png
+- Assets/Resources/Sprite/Common/ad.png
+- Assets/Resources/Sprite/Common/btn_kaishi.png
+- Assets/Resources/Sprite/Common/huise.png
+- Assets/Resources/Sprite/Common/btn_xuanxiang.png
+- Assets/Resources/Sprite/Common/btn_xuanze_shenglan.png
+- Assets/Resources/Sprite/Common/jindutiao1.png
+- Assets/Resources/Sprite/Common/logoZH.png
+- Assets/Resources/Sprite/Common/zombie.png
+- Assets/Resources/Sprite/Common/btn_yinliang1.png
+- Assets/Resources/Sprite/Common/xingxing.png
+- Assets/Resources/Sprite/Common/renwu.png
+- Assets/Resources/Sprite/Common/btn_anniu_1.png
+- Assets/Resources/Sprite/Common/fenxiang.png
+- Assets/Resources/Sprite/Common/war.png
+- Assets/Resources/Sprite/Common/line.png
+- Assets/Resources/Sprite/Common/suo.png
+- Assets/Resources/Sprite/Common/biaoti.png
+- Assets/Resources/Sprite/Common/baoshi_1.png
+- Assets/Resources/Sprite/Common/jindutiao2.png
+- Assets/Resources/Sprite/Common/btn_yuyan.png
+- Assets/Resources/Sprite/Common/baoshi_5.png
+- Assets/Resources/Sprite/Common/kuang.png
+- Assets/Resources/Sprite/Common/xingxing_an.png
+- Assets/Resources/Sprite/Common/btn_fenxiang.png
+- Assets/Resources/Sprite/Common/child.png
+- Assets/Resources/Sprite/Common/newFrame.png
+- Assets/Resources/Sprite/Common/btn_1.png
+- Assets/Resources/Sprite/Common/baoshi_3.png
+Dependencies: []

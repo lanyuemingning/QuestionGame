@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 1618922420
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 36357932b7c2ca7260f3a68c759b7fa5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 36357932b7c2ca7260f3a68c759b7fa5
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Sprite/Job/JobShow/15.png
+- Assets/Resources/Sprite/Job/JobShow/13.png
+- Assets/Resources/Sprite/Job/JobShow/8.png
+- Assets/Resources/Sprite/Job/JobShow/11.png
+- Assets/Resources/Sprite/Job/JobShow/2.png
+- Assets/Resources/Sprite/Job/JobShow/5.png
+- Assets/Resources/Sprite/Job/JobShow/3.png
+- Assets/Resources/Sprite/Job/JobShow/7.png
+- Assets/Resources/Sprite/Job/JobShow/4.png
+- Assets/Resources/Sprite/Job/JobShow/19.png
+- Assets/Resources/Sprite/Job/JobShow/17.png
+- Assets/Resources/Sprite/Job/JobShow/18.png
+- Assets/Resources/Sprite/Job/JobShow/9.png
+- Assets/Resources/Sprite/Job/JobShow/12.png
+- Assets/Resources/Sprite/Job/JobShow/16.png
+- Assets/Resources/Sprite/Job/JobShow/14.png
+- Assets/Resources/Sprite/Job/JobShow/1.png
+- Assets/Resources/Sprite/Job/JobShow/6.png
+- Assets/Resources/Sprite/Job/JobShow/10.png
+- Assets/Resources/Sprite/Job/JobShow/20.png
+Dependencies: []

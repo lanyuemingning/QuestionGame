@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1034950007
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f8407cb3f54467a1a85ef33e95a35c3c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f8407cb3f54467a1a85ef33e95a35c3c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/ABResource/Sprite/Romance/RomanceAnswer/KO/5.png
+- Assets/Resources/ABResource/Sprite/Romance/RomanceAnswer/KO/7.png
+- Assets/Resources/ABResource/Sprite/Romance/RomanceAnswer/KO/3.png
+- Assets/Resources/ABResource/Sprite/Romance/RomanceAnswer/KO/6.png
+- Assets/Resources/ABResource/Sprite/Romance/RomanceAnswer/KO/1.png
+- Assets/Resources/ABResource/Sprite/Romance/RomanceAnswer/KO/4.png
+- Assets/Resources/ABResource/Sprite/Romance/RomanceAnswer/KO/2.png
+- Assets/Resources/ABResource/Sprite/Romance/RomanceAnswer/KO/8.png
+Dependencies: []

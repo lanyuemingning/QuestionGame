@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3802849098
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44fb99ac35c9990fb4882eb3e381a806
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 44fb99ac35c9990fb4882eb3e381a806
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Sprite/Animal/AnimalShow/17.png
+- Assets/Resources/Sprite/Animal/AnimalShow/5.png
+- Assets/Resources/Sprite/Animal/AnimalShow/7.png
+- Assets/Resources/Sprite/Animal/AnimalShow/14.png
+- Assets/Resources/Sprite/Animal/AnimalShow/20.png
+- Assets/Resources/Sprite/Animal/AnimalShow/6.png
+- Assets/Resources/Sprite/Animal/AnimalShow/15.png
+- Assets/Resources/Sprite/Animal/AnimalShow/8.png
+- Assets/Resources/Sprite/Animal/AnimalShow/1.png
+- Assets/Resources/Sprite/Animal/AnimalShow/9.png
+- Assets/Resources/Sprite/Animal/AnimalShow/18.png
+- Assets/Resources/Sprite/Animal/AnimalShow/4.png
+- Assets/Resources/Sprite/Animal/AnimalShow/19.png
+- Assets/Resources/Sprite/Animal/AnimalShow/10.png
+- Assets/Resources/Sprite/Animal/AnimalShow/3.png
+- Assets/Resources/Sprite/Animal/AnimalShow/11.png
+- Assets/Resources/Sprite/Animal/AnimalShow/12.png
+- Assets/Resources/Sprite/Animal/AnimalShow/16.png
+- Assets/Resources/Sprite/Animal/AnimalShow/13.png
+- Assets/Resources/Sprite/Animal/AnimalShow/2.png
+Dependencies: []

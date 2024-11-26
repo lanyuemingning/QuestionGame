@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2455364815
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ef88be5d8be5fae41ab3483f3eec2d2f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ef88be5d8be5fae41ab3483f3eec2d2f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/ABResource/Sprite/Hentai/HentaiShow/5.png
+- Assets/Resources/ABResource/Sprite/Hentai/HentaiShow/10.png
+- Assets/Resources/ABResource/Sprite/Hentai/HentaiShow/8.png
+- Assets/Resources/ABResource/Sprite/Hentai/HentaiShow/9.png
+- Assets/Resources/ABResource/Sprite/Hentai/HentaiShow/1.png
+- Assets/Resources/ABResource/Sprite/Hentai/HentaiShow/7.png
+- Assets/Resources/ABResource/Sprite/Hentai/HentaiShow/4.png
+- Assets/Resources/ABResource/Sprite/Hentai/HentaiShow/2.png
+- Assets/Resources/ABResource/Sprite/Hentai/HentaiShow/3.png
+- Assets/Resources/ABResource/Sprite/Hentai/HentaiShow/6.png
+Dependencies: []

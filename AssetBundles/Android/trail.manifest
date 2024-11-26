@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 2586551389
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2abd08f1cf1e5a7d1e86403f91b45100
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2abd08f1cf1e5a7d1e86403f91b45100
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/3.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/8.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/7.2.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/9.1.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/6.1.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/xiaoren.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/19.1.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/anniu.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/9.2.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/yiren.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/2.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/16.1.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/15.2.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/20.1.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/12.1.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/12.2.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/yishen.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/wuren.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/5.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/ni.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/10.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/di.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/17.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/manghe.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/19.2.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/7.1.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/1.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/16.2.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/13.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/20.2.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/6.2.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/15.1.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/14.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/dianche.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailShowParts/4.png
+Dependencies: []

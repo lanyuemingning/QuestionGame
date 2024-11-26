@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 249873823
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1e05530255d8222dcdbdf6a7ccca9427
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1e05530255d8222dcdbdf6a7ccca9427
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Sprite/Trail/TrailAnswer/ZH/3.png
+- Assets/Resources/Sprite/Trail/TrailAnswer/ZH/4.png
+- Assets/Resources/Sprite/Trail/TrailAnswer/ZH/2.png
+- Assets/Resources/Sprite/Trail/TrailAnswer/ZH/1.png
+- Assets/Resources/Sprite/Trail/TrailAnswer/ZH/5.png
+Dependencies: []
