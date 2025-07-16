@@ -1,0 +1,106 @@
+ManifestFileVersion: 0
+CRC: 443611100
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3d10e78ff282724214e614f629e83280
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3d10e78ff282724214e614f629e83280
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/ABResource/Sprite/Common/lan.png
+- Assets/Resources/ABResource/Sprite/Common/btn_shezhi.png
+- Assets/Resources/ABResource/Sprite/Level/zhanzheng.png
+- Assets/Resources/ABResource/Sprite/Common/gou.png
+- Assets/Resources/ABResource/Sprite/Level/zhiye.png
+- Assets/Resources/ABResource/Sprite/Level/secai.png
+- Assets/Resources/ABResource/Sprite/Common/shenlan.png
+- Assets/Resources/ABResource/Sprite/Common/shezhi.png
+- Assets/Resources/ABResource/Sprite/Common/scoreBg2.png
+- Assets/Resources/ABResource/Sprite/Common/baoshi_di.png
+- Assets/Resources/ABResource/Sprite/Common/zonglanneirong.png
+- Assets/Resources/ABResource/Sprite/Common/qipao.png
+- Assets/Resources/ABResource/Sprite/Common/zomglakuang.png
+- Assets/Resources/ABResource/Sprite/Common/btn_yinliang2.png
+- Assets/Resources/ABResource/Sprite/Common/cheng.png
+- Assets/Resources/ABResource/Sprite/Level/3.png
+- Assets/Resources/ABResource/Sprite/Common/quguanggao.png
+- Assets/Resources/ABResource/Sprite/Level/suo.png
+- Assets/Resources/ABResource/Sprite/Level/easyChild.png
+- Assets/Resources/ABResource/Sprite/Common/neirongkuang.png
+- Assets/Resources/ABResource/Sprite/Level/jiesuo.png
+- Assets/Resources/ABResource/Sprite/Common/baoshi_2.png
+- Assets/Resources/ABResource/Sprite/Common/lv.png
+- Assets/Resources/ABResource/Sprite/Level/yangxiaohai.png
+- Assets/Resources/ABResource/Sprite/Common/dikuang.png
+- Assets/Resources/ABResource/Sprite/Common/btn_anniu_2.png
+- Assets/Resources/ABResource/Sprite/Common/btn_xuanze_lan.png
+- Assets/Resources/ABResource/Sprite/Common/dikuang 1.png
+- Assets/Resources/ABResource/Sprite/Level/you.png
+- Assets/Resources/ABResource/Sprite/Common/island.png
+- Assets/Resources/ABResource/Sprite/Common/xuanxiang_1.png
+- Assets/Resources/ABResource/Sprite/Level/guanbi.png
+- Assets/Resources/ABResource/Sprite/Common/btn_fanhui.png
+- Assets/Resources/ABResource/Sprite/Common/bg.png
+- Assets/Resources/ABResource/Sprite/Common/di.png
+- Assets/Resources/ABResource/Sprite/Level/di.png
+- Assets/Resources/ABResource/Sprite/Common/xuanxiang_2.png
+- Assets/Resources/ABResource/Sprite/Level/jiesuoquanbu.png
+- Assets/Resources/ABResource/Sprite/Level/gou.png
+- Assets/Resources/ABResource/Sprite/Level/zuo.png
+- Assets/Resources/ABResource/Sprite/Common/sanjiao.png
+- Assets/Resources/ABResource/Sprite/Common/btn_xuanze_lv.png
+- Assets/Resources/ABResource/Sprite/Common/zi.png
+- Assets/Resources/ABResource/Sprite/Common/ad.png
+- Assets/Resources/ABResource/Sprite/Common/btn_kaishi.png
+- Assets/Resources/ABResource/Sprite/Level/sangshi.png
+- Assets/Resources/ABResource/Sprite/Level/lianai.png
+- Assets/Resources/ABResource/Sprite/Common/huise.png
+- Assets/Resources/ABResource/Sprite/Level/eq.png
+- Assets/Resources/ABResource/Sprite/Level/pengyou.png
+- Assets/Resources/ABResource/Sprite/Common/btn_xuanxiang.png
+- Assets/Resources/ABResource/Sprite/Common/btn_xuanze_shenglan.png
+- Assets/Resources/ABResource/Sprite/Common/jindutiao1.png
+- Assets/Resources/ABResource/Sprite/Common/icon.png
+- Assets/Resources/ABResource/Sprite/Level/haidao.png
+- Assets/Resources/ABResource/Sprite/Common/scoreBg1.png
+- Assets/Resources/ABResource/Sprite/Common/scoreBg3.png
+- Assets/Resources/ABResource/Sprite/Common/zombie.png
+- Assets/Resources/ABResource/Sprite/Level/guanggao.png
+- Assets/Resources/ABResource/Sprite/Common/btn_yinliang1.png
+- Assets/Resources/ABResource/Sprite/Common/xingxing.png
+- Assets/Resources/ABResource/Sprite/Common/renwu.png
+- Assets/Resources/ABResource/Sprite/Level/xp.png
+- Assets/Resources/ABResource/Sprite/Common/btn_anniu_1.png
+- Assets/Resources/ABResource/Sprite/Common/fenxiang.png
+- Assets/Resources/ABResource/Sprite/Common/war.png
+- Assets/Resources/ABResource/Sprite/Level/dianche.png
+- Assets/Resources/ABResource/Sprite/Common/line.png
+- Assets/Resources/ABResource/Sprite/Level/dongwu.png
+- Assets/Resources/ABResource/Sprite/Common/suo.png
+- Assets/Resources/ABResource/Sprite/Common/biaoti.png
+- Assets/Resources/ABResource/Sprite/Common/baoshi_1.png
+- Assets/Resources/ABResource/Sprite/Common/jindutiao2.png
+- Assets/Resources/ABResource/Sprite/Common/btn_yuyan.png
+- Assets/Resources/ABResource/Sprite/Level/sm.png
+- Assets/Resources/ABResource/Sprite/Level/superHero.png
+- Assets/Resources/ABResource/Sprite/Common/baoshi_5.png
+- Assets/Resources/ABResource/Sprite/Common/kuang.png
+- Assets/Resources/ABResource/Sprite/Common/xingxing_an.png
+- Assets/Resources/ABResource/Sprite/Common/btn_fenxiang.png
+- Assets/Resources/ABResource/Sprite/Common/child.png
+- Assets/Resources/ABResource/Sprite/Common/newFrame.png
+- Assets/Resources/ABResource/Sprite/Level/hentai.png
+- Assets/Resources/ABResource/Sprite/Common/btn_1.png
+- Assets/Resources/ABResource/Sprite/Common/baoshi_3.png
+Dependencies: []

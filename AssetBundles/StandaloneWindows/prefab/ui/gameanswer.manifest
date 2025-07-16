@@ -1,0 +1,133 @@
+ManifestFileVersion: 0
+CRC: 3663845019
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 67b0685dbe26e2c213d715bf021224f3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c8a09a96b5b37bf666174d987f4246ae
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 67b0685dbe26e2c213d715bf021224f3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0e75db03bd349c2468366b13b95a5341, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4152c570601f5394fb0754fd718435aa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d1b43727e53ee5443b589143f1dc83a4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c32b78a2975839448b9a9d040817f3ba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b4fa0aa848f67404aa6c15cd20bf53fc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 25bd2d35a386b5a43aac48ec77ac1d5c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7541439c9653bad4696d0daf90faca70, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 96a5b09b452608a4eb83d5210538c10a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a677acdec95a64c4fac27e92003b4acf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 87b8fdbaa318dae45a4d96454cf45dc4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c82079afbf9f9ab45a642f3315d6fcd0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a9c5bd5bc73f6544f9a8ec6618165d7d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ae8260f1d6aa174286c99dcbc257489, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a4db7a114972834c8e4117be1d82ba3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dde6c0ca56718c744b174fc313540b01, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ffff7323dc9a1324eab0fa52d944a2c6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Scrollbar/ScrollEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/Resources/ABResource/Prefab/UI/GameAnswer/UIWarEnd.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameAnswer/UIIslandEnd.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameAnswer/UISMEnd.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameAnswer/UIXPEnd.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameAnswer/UIEQEnd.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameAnswer/UIChildEnd.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameAnswer/UIAnimalEnd.prefab
+- Assets/Resources/ABResource/Sprite/Trail/TrailAnswer/2.png
+- Assets/Resources/ABResource/Sprite/Trail/TrailAnswer/3.png
+- Assets/Resources/ABResource/Prefab/UI/GameAnswer/UITrailEnd.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameAnswer/UIZombieEnd.prefab
+- Assets/Resources/ABResource/Sprite/Trail/TrailAnswer/5.png
+- Assets/Resources/ABResource/Prefab/UI/GameAnswer/UISuperHeroEnd.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameAnswer/UIChildEasyEnd.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameAnswer/UIFriendEnd.prefab
+- Assets/Resources/ABResource/Sprite/Trail/TrailAnswer/4.png
+- Assets/Resources/ABResource/Prefab/UI/GameAnswer/UIColorEnd.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameAnswer/UIHentaiEnd.prefab
+- Assets/Resources/ABResource/Prefab/UI/GameAnswer/UIJobEnd.prefab
+- Assets/Resources/ABResource/Sprite/Trail/TrailAnswer/1.png
+- Assets/Resources/ABResource/Prefab/UI/GameAnswer/UIRomanceEnd.prefab
+Dependencies:
+- d:/Documents/GitHub/QuestionGame/AssetBundles/StandaloneWindows/animalanswer/zh
+- d:/Documents/GitHub/QuestionGame/AssetBundles/StandaloneWindows/childanswer
+- d:/Documents/GitHub/QuestionGame/AssetBundles/StandaloneWindows/common
+- d:/Documents/GitHub/QuestionGame/AssetBundles/StandaloneWindows/font
+- d:/Documents/GitHub/QuestionGame/AssetBundles/StandaloneWindows/xp

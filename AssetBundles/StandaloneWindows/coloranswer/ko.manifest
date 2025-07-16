@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1684314781
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d85b8eca1ad8c7f0b0b271532fe96546
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d85b8eca1ad8c7f0b0b271532fe96546
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/ABResource/Sprite/Color/ColorAnswer/KO/1.png
+- Assets/Resources/ABResource/Sprite/Color/ColorAnswer/KO/5.png
+- Assets/Resources/ABResource/Sprite/Color/ColorAnswer/KO/3.png
+- Assets/Resources/ABResource/Sprite/Color/ColorAnswer/KO/4.png
+- Assets/Resources/ABResource/Sprite/Color/ColorAnswer/KO/2.png
+Dependencies: []

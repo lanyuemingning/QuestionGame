@@ -24,3 +24,8 @@ public struct UnlockLevelEvent
 {
 
 }
+
+public struct CloseGameUISaveEvent
+{
+    string name;
+}

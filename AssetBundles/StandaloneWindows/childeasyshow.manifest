@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 3894662663
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2f7d6280c28f7dc8d846e95b609dbeb0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2f7d6280c28f7dc8d846e95b609dbeb0
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/ABResource/Sprite/ChildEasy/ChildEasyShow/1.2.png
+- Assets/Resources/ABResource/Sprite/ChildEasy/ChildEasyShow/7.1.png
+- Assets/Resources/ABResource/Sprite/ChildEasy/ChildEasyShow/2.2.png
+- Assets/Resources/ABResource/Sprite/ChildEasy/ChildEasyShow/3.png
+- Assets/Resources/ABResource/Sprite/ChildEasy/ChildEasyShow/3.1.png
+- Assets/Resources/ABResource/Sprite/ChildEasy/ChildEasyShow/5.2.png
+- Assets/Resources/ABResource/Sprite/ChildEasy/ChildEasyShow/4.2.png
+- Assets/Resources/ABResource/Sprite/ChildEasy/ChildEasyShow/6.2.png
+- Assets/Resources/ABResource/Sprite/ChildEasy/ChildEasyShow/5.1.png
+- Assets/Resources/ABResource/Sprite/ChildEasy/ChildEasyShow/6.png
+- Assets/Resources/ABResource/Sprite/ChildEasy/ChildEasyShow/8.1.png
+- Assets/Resources/ABResource/Sprite/ChildEasy/ChildEasyShow/8.2.png
+- Assets/Resources/ABResource/Sprite/ChildEasy/ChildEasyShow/2.png
+- Assets/Resources/ABResource/Sprite/ChildEasy/ChildEasyShow/9.2.png
+- Assets/Resources/ABResource/Sprite/ChildEasy/ChildEasyShow/10.1.png
+- Assets/Resources/ABResource/Sprite/ChildEasy/ChildEasyShow/1.png
+- Assets/Resources/ABResource/Sprite/ChildEasy/ChildEasyShow/3.2.png
+- Assets/Resources/ABResource/Sprite/ChildEasy/ChildEasyShow/10.2.png
+- Assets/Resources/ABResource/Sprite/ChildEasy/ChildEasyShow/6.1.png
+- Assets/Resources/ABResource/Sprite/ChildEasy/ChildEasyShow/7.2.png
+- Assets/Resources/ABResource/Sprite/ChildEasy/ChildEasyShow/5.png
+- Assets/Resources/ABResource/Sprite/ChildEasy/ChildEasyShow/4.png
+- Assets/Resources/ABResource/Sprite/ChildEasy/ChildEasyShow/4.1.png
+- Assets/Resources/ABResource/Sprite/ChildEasy/ChildEasyShow/1.1.png
+- Assets/Resources/ABResource/Sprite/ChildEasy/ChildEasyShow/2.1.png
+- Assets/Resources/ABResource/Sprite/ChildEasy/ChildEasyShow/9.1.png
+Dependencies: []

@@ -1,0 +1,155 @@
+ManifestFileVersion: 0
+CRC: 1454359771
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: sm
+      Dependencies: {}
+    Info_1:
+      Name: romance
+      Dependencies: {}
+    Info_2:
+      Name: trail
+      Dependencies: {}
+    Info_3:
+      Name: coloranswer/ko
+      Dependencies: {}
+    Info_4:
+      Name: prefab/ui/others
+      Dependencies:
+        Dependency_0: prefab/ui/gameanswer
+        Dependency_1: font
+        Dependency_2: animation
+        Dependency_3: common
+        Dependency_4: animalanswer/zh
+        Dependency_5: childanswer
+    Info_5:
+      Name: prefab/ui/gameanswer
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: xp
+        Dependency_2: common
+        Dependency_3: animalanswer/zh
+        Dependency_4: childanswer
+    Info_6:
+      Name: jobanswer/ja
+      Dependencies: {}
+    Info_7:
+      Name: childeasyshow
+      Dependencies: {}
+    Info_8:
+      Name: coloranswer/zh
+      Dependencies: {}
+    Info_9:
+      Name: font
+      Dependencies: {}
+    Info_10:
+      Name: animation
+      Dependencies: {}
+    Info_11:
+      Name: animal
+      Dependencies: {}
+    Info_12:
+      Name: xp
+      Dependencies: {}
+    Info_13:
+      Name: hentai
+      Dependencies: {}
+    Info_14:
+      Name: jobanswer/zh
+      Dependencies: {}
+    Info_15:
+      Name: prefab/ui/gameui
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: common
+        Dependency_2: friend
+    Info_16:
+      Name: friendanswer/ko
+      Dependencies: {}
+    Info_17:
+      Name: romanceanswer/zh
+      Dependencies: {}
+    Info_18:
+      Name: common
+      Dependencies: {}
+    Info_19:
+      Name: coloranswer/en
+      Dependencies: {}
+    Info_20:
+      Name: color
+      Dependencies: {}
+    Info_21:
+      Name: friendanswer/ja
+      Dependencies: {}
+    Info_22:
+      Name: war
+      Dependencies: {}
+    Info_23:
+      Name: superheroshow
+      Dependencies: {}
+    Info_24:
+      Name: romanceanswer/ko
+      Dependencies: {}
+    Info_25:
+      Name: animalanswer/zh
+      Dependencies: {}
+    Info_26:
+      Name: animalanswer/ja
+      Dependencies: {}
+    Info_27:
+      Name: superheroanswer
+      Dependencies: {}
+    Info_28:
+      Name: friendanswer/en
+      Dependencies: {}
+    Info_29:
+      Name: jobanswer/ko
+      Dependencies: {}
+    Info_30:
+      Name: coloranswer/ja
+      Dependencies: {}
+    Info_31:
+      Name: friend
+      Dependencies: {}
+    Info_32:
+      Name: jobanswer/en
+      Dependencies: {}
+    Info_33:
+      Name: island
+      Dependencies: {}
+    Info_34:
+      Name: childanswer
+      Dependencies: {}
+    Info_35:
+      Name: romanceanswer/ja
+      Dependencies: {}
+    Info_36:
+      Name: eq
+      Dependencies: {}
+    Info_37:
+      Name: childshow
+      Dependencies: {}
+    Info_38:
+      Name: zombie
+      Dependencies: {}
+    Info_39:
+      Name: animalanswer/en
+      Dependencies: {}
+    Info_40:
+      Name: romanceanswer/en
+      Dependencies: {}
+    Info_41:
+      Name: animalanswer/ko
+      Dependencies: {}
+    Info_42:
+      Name: uitrailshow
+      Dependencies:
+        Dependency_0: trail
+        Dependency_1: animation
+    Info_43:
+      Name: friendanswer/zh
+      Dependencies: {}
+    Info_44:
+      Name: job
+      Dependencies: {}

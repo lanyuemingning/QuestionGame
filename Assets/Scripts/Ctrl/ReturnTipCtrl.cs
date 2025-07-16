@@ -11,9 +11,9 @@ public class ReturnTipCtrl: MonoBehaviour, IController, ICanSendEvent
 {
     //View
     [SerializeField]
-    Button BtnConfirm, BtnCancel;
+    Button BtnConfirm, BtnCancel,BtnReback;
     [SerializeField]
-    TextMeshProUGUI TxtReturn, TxtDesc1, TxtDesc2, TxtCancel, TxtConfirm;
+    TextMeshProUGUI TxtReturn, TxtDesc1, TxtDesc2, TextSave, TextUnSave;
 
 
     //Instance
@@ -27,6 +27,7 @@ public class ReturnTipCtrl: MonoBehaviour, IController, ICanSendEvent
 
     private void Start()
     {
+      
         this.GetUtility<SaveDataUtility>().SetPrivacyTip(1);
         SetButtonOnclick();
         RegisterEvents();
@@ -41,16 +42,26 @@ public class ReturnTipCtrl: MonoBehaviour, IController, ICanSendEvent
     {
         BtnConfirm?.onClick.AddListener(() =>
         {
+            // 确认，all
             AudioKit.PlaySound("resources://Sound/btnClick");
+            
             this.SendEvent<CloseGameUIEvent>();
+            this.SendEvent<CloseGameUISaveEvent>();
             this.GetUtility<UIUtility>().CloseUI("UIReturnTip");
         });  
 
         BtnCancel?.onClick.AddListener(() =>
         {
+            // 确认，all
+            AudioKit.PlaySound("resources://Sound/btnClick");
+            this.SendEvent<CloseGameUIEvent>();
+            this.GetUtility<UIUtility>().CloseUI("UIReturnTip");
+        });
+        BtnReback?.onClick.AddListener(() =>
+        {
             AudioKit.PlaySound("resources://Sound/btnClick");
             this.GetUtility<UIUtility>().CloseUI("UIReturnTip");
-        });       
+        });
     }
 
     /// <summary>
@@ -73,7 +84,7 @@ public class ReturnTipCtrl: MonoBehaviour, IController, ICanSendEvent
         TxtReturn.text = textManager.GetConvertText("Text_Return");
         TxtDesc1.text = textManager.GetConvertText("Text_ReturnMenu");
         TxtDesc2.text = textManager.GetConvertText("Text_ReturnDesc");
-        TxtCancel.text = textManager.GetConvertText("Text_Cancel");
-        TxtConfirm.text = textManager.GetConvertText("Text_Confirm");
+        TextUnSave.text = textManager.GetConvertText("Text_UnSave");
+        TextSave.text = textManager.GetConvertText("Text_Save");
     }
 }

@@ -7,10 +7,15 @@ using UnityEngine;
 
 public class UIUtility : IUtility
 {
-     GameObject UICanvas, createUI;
+    private ResLoader mResLoader = ResLoader.Allocate();
+    GameObject UICanvas, createUI;
      //Stack<GameObject> UIRoot = new Stack<GameObject>();
     Dictionary<string, GameObject> OpenUIDic = new Dictionary<string, GameObject>();
-
+    public void Start()
+    {
+        ResKit.Init();
+    }
+    
     public  void CreateGameUI(GameDefine.GameType gameType, bool isAnswer = false)
     {
         string dicKey = gameType.ToString();
@@ -121,7 +126,9 @@ public class UIUtility : IUtility
         }
 
         GameObject go = ResourceManager.Instance.Load<GameObject>("prefab/ui/others" ,name);
+        
 
+     
         if (OpenUIDic.Count == 0)
         {
             GameObject createGo = GameObject.Instantiate(go, UICanvas.transform);
@@ -138,6 +145,7 @@ public class UIUtility : IUtility
             {
                 //GameObject root = UIRoot.Peek();
                 GameObject createGo = GameObject.Instantiate(go, UICanvas.transform);
+               
                 //UIRoot.Push(createGo);
                 OpenUIDic.Add(name, createGo);
             }

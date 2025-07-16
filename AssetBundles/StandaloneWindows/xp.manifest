@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1322809261
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 94330b73284c8b6218e297ed2a25aba9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 94330b73284c8b6218e297ed2a25aba9
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/ABResource/Sprite/XP/XP/XPBg.png
+- Assets/Resources/ABResource/Sprite/XP/XP/9.png
+- Assets/Resources/ABResource/Sprite/XP/XP/1.png
+- Assets/Resources/ABResource/Sprite/XP/XP/10.png
+- Assets/Resources/ABResource/Sprite/XP/XP/xp.png
+- Assets/Resources/ABResource/Sprite/XP/XP/2.png
+- Assets/Resources/ABResource/Sprite/XP/XP/7.png
+- Assets/Resources/ABResource/Sprite/XP/XP/XPItem.png
+- Assets/Resources/ABResource/Sprite/XP/XP/3.png
+- Assets/Resources/ABResource/Sprite/XP/XP/6.png
+- Assets/Resources/ABResource/Sprite/XP/XP/8.png
+- Assets/Resources/ABResource/Sprite/XP/XP/4.png
+- Assets/Resources/ABResource/Sprite/XP/XP/5.png
+Dependencies: []

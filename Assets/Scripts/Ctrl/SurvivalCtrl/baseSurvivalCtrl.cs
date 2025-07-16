@@ -141,7 +141,10 @@ public class BaseSurvivalCtrl : MonoBehaviour, IController
     virtual public void GetModel()
     {
         m_Model = this.GetModel<SurvivalModel>(); //获取model
-        m_Model.level = 0;
+        string childClassName = this.GetType().Name;
+        levelManager = LevelManager.Instance;
+        m_Model.level = levelManager.Getlevel(childClassName);
+        
 
     }
 
@@ -286,6 +289,12 @@ public class BaseSurvivalCtrl : MonoBehaviour, IController
         this.RegisterEvent<CloseGameUIEvent>(e =>
         {
             ReturnToLevelList();
+            levelManager.SaveData(this.GetType().Name, 0);
+        }).UnRegisterWhenGameObjectDestroyed(gameObject);
+        this.RegisterEvent<CloseGameUISaveEvent>(e =>
+        {
+            ReturnToLevelList();
+            levelManager.SaveData(this.GetType().Name, m_Model.level);
         }).UnRegisterWhenGameObjectDestroyed(gameObject);
     }
 

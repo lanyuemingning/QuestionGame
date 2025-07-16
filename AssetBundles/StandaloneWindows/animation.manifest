@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3856121888
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77e1d76501cc60ebac3559ee13f84081
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ee737d6afc00fec93c1987e485ffa6bd
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 77e1d76501cc60ebac3559ee13f84081
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Animation/TarotReverse_1.anim
+- Assets/Resources/Animation/TrailUp.anim
+- Assets/Resources/Animation/TrailDown.anim
+- Assets/Resources/Animation/UIChangeQuestion.controller
+- Assets/Resources/Animation/Trail.controller
+- Assets/Resources/Animation/UITarot.controller
+- Assets/Resources/Animation/TarotReverse_3.anim
+- Assets/Resources/Animation/TarotReverse_2.anim
+- Assets/Resources/Animation/ChangeQuestion.anim
+Dependencies: []

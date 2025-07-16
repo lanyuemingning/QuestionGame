@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 1473456493
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a33277fa7d17641c19b030c5bfe78df6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a33277fa7d17641c19b030c5bfe78df6
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/ABResource/Sprite/War/WarShow/9.png
+- Assets/Resources/ABResource/Sprite/War/WarShow/15.png
+- Assets/Resources/ABResource/Sprite/War/WarShow/13.png
+- Assets/Resources/ABResource/Sprite/War/WarShow/20.png
+- Assets/Resources/ABResource/Sprite/War/WarShow/11.png
+- Assets/Resources/ABResource/Sprite/War/WarShow/4.png
+- Assets/Resources/ABResource/Sprite/War/WarShow/6.png
+- Assets/Resources/ABResource/Sprite/War/WarShow/10.png
+- Assets/Resources/ABResource/Sprite/War/WarShow/16.png
+- Assets/Resources/ABResource/Sprite/War/WarShow/14.png
+- Assets/Resources/ABResource/Sprite/War/WarShow/5.png
+- Assets/Resources/ABResource/Sprite/War/WarShow/3.png
+- Assets/Resources/ABResource/Sprite/War/WarShow/12.png
+- Assets/Resources/ABResource/Sprite/War/WarShow/18.png
+- Assets/Resources/ABResource/Sprite/War/WarShow/1.png
+- Assets/Resources/ABResource/Sprite/War/WarShow/17.png
+- Assets/Resources/ABResource/Sprite/War/WarShow/2.png
+- Assets/Resources/ABResource/Sprite/War/WarShow/8.png
+- Assets/Resources/ABResource/Sprite/War/WarShow/19.png
+- Assets/Resources/ABResource/Sprite/War/WarShow/7.png
+Dependencies: []

@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 1122229378
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3666293b5b47945722bb500e59aaa6eb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3666293b5b47945722bb500e59aaa6eb
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/ABResource/Sprite/SuperHero/SuperHeroShow/5.1.png
+- Assets/Resources/ABResource/Sprite/SuperHero/SuperHeroShow/10.2.png
+- Assets/Resources/ABResource/Sprite/Yokubou/Yokubou/9.1.png
+- Assets/Resources/ABResource/Sprite/SuperHero/SuperHeroShow/4.1.png
+- Assets/Resources/ABResource/Sprite/SuperHero/SuperHeroShow/5.2.png
+- Assets/Resources/ABResource/Sprite/SuperHero/SuperHeroShow/6.1.png
+- Assets/Resources/ABResource/Sprite/SuperHero/SuperHeroShow/2.2.png
+- Assets/Resources/ABResource/Sprite/SuperHero/SuperHeroShow/3.1.png
+- Assets/Resources/ABResource/Sprite/Yokubou/Yokubou/3.2.png
+- Assets/Resources/ABResource/Sprite/SuperHero/SuperHeroShow/4.2.png
+- Assets/Resources/ABResource/Sprite/Yokubou/Yokubou/8.1.png
+- Assets/Resources/ABResource/Sprite/Yokubou/Yokubou/5.1.png
+- Assets/Resources/ABResource/Sprite/Yokubou/Yokubou/9.2.png
+- Assets/Resources/ABResource/Sprite/Yokubou/Yokubou/10.2.png
+- Assets/Resources/ABResource/Sprite/Yokubou/Yokubou/2.1.png
+- Assets/Resources/ABResource/Sprite/SuperHero/SuperHeroShow/9.2.png
+- Assets/Resources/ABResource/Sprite/SuperHero/SuperHeroShow/10.1.png
+- Assets/Resources/ABResource/Sprite/Yokubou/Yokubou/2.2.png
+- Assets/Resources/ABResource/Sprite/Yokubou/Yokubou/6.1.png
+- Assets/Resources/ABResource/Sprite/SuperHero/SuperHeroShow/7.2.png
+- Assets/Resources/ABResource/Sprite/Yokubou/Yokubou/1.1.png
+- Assets/Resources/ABResource/Sprite/SuperHero/SuperHeroShow/7.1.png
+- Assets/Resources/ABResource/Sprite/Yokubou/Yokubou/6.2.png
+- Assets/Resources/ABResource/Sprite/SuperHero/SuperHeroShow/9.1.png
+- Assets/Resources/ABResource/Sprite/SuperHero/SuperHeroShow/8.1.png
+- Assets/Resources/ABResource/Sprite/SuperHero/SuperHeroShow/8.2.png
+- Assets/Resources/ABResource/Sprite/Yokubou/Yokubou/5.2.png
+- Assets/Resources/ABResource/Sprite/SuperHero/SuperHeroShow/1.2.png
+- Assets/Resources/ABResource/Sprite/Yokubou/Yokubou/1.2.png
+- Assets/Resources/ABResource/Sprite/SuperHero/SuperHeroShow/3.2.png
+- Assets/Resources/ABResource/Sprite/Yokubou/Yokubou/7.1.png
+- Assets/Resources/ABResource/Sprite/SuperHero/SuperHeroShow/1.1.png
+- Assets/Resources/ABResource/Sprite/SuperHero/SuperHeroShow/2.1.png
+- Assets/Resources/ABResource/Sprite/SuperHero/SuperHeroShow/6.2.png
+- Assets/Resources/ABResource/Sprite/Yokubou/Yokubou/8.2.png
+- Assets/Resources/ABResource/Sprite/Yokubou/Yokubou/3.1.png
+- Assets/Resources/ABResource/Sprite/Yokubou/Yokubou/4.2.png
+- Assets/Resources/ABResource/Sprite/Yokubou/Yokubou/10.1.png
+- Assets/Resources/ABResource/Sprite/Yokubou/Yokubou/7.2.png
+- Assets/Resources/ABResource/Sprite/Yokubou/Yokubou/4.1.png
+Dependencies: []

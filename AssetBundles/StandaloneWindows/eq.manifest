@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1846938682
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8242e1889ea93cac948840120e6c1a7d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8242e1889ea93cac948840120e6c1a7d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/ABResource/Sprite/EQ/EQ/5.png
+- Assets/Resources/ABResource/Sprite/EQ/EQ/4.png
+- Assets/Resources/ABResource/Sprite/EQ/EQ/1.png
+- Assets/Resources/ABResource/Sprite/EQ/EQ/8.png
+- Assets/Resources/ABResource/Sprite/EQ/EQ/10.png
+- Assets/Resources/ABResource/Sprite/EQ/EQ/7.png
+- Assets/Resources/ABResource/Sprite/EQ/EQ/6.png
+- Assets/Resources/ABResource/Sprite/EQ/EQ/3.png
+- Assets/Resources/ABResource/Sprite/EQ/EQ/2.png
+- Assets/Resources/ABResource/Sprite/EQ/EQ/9.png
+Dependencies: []

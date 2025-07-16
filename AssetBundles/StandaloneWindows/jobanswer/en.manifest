@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 172633743
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6ec0317e8c6dbd17ccfa5b9aaa63bffb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6ec0317e8c6dbd17ccfa5b9aaa63bffb
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/ABResource/Sprite/Job/JobAnswer/EN/1.png
+- Assets/Resources/ABResource/Sprite/Job/JobAnswer/EN/2.png
+- Assets/Resources/ABResource/Sprite/Job/JobAnswer/EN/6.png
+- Assets/Resources/ABResource/Sprite/Job/JobAnswer/EN/5.png
+- Assets/Resources/ABResource/Sprite/Job/JobAnswer/EN/7.png
+- Assets/Resources/ABResource/Sprite/Job/JobAnswer/EN/8.png
+- Assets/Resources/ABResource/Sprite/Job/JobAnswer/EN/3.png
+- Assets/Resources/ABResource/Sprite/Job/JobAnswer/EN/4.png
+Dependencies: []

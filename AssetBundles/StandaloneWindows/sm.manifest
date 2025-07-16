@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1151523274
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2c30cb3750dc9a4104b5bcc3ff4a11f4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2c30cb3750dc9a4104b5bcc3ff4a11f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/ABResource/Sprite/SM/SMShow/5.png
+- Assets/Resources/ABResource/Sprite/SM/SMShow/10.png
+- Assets/Resources/ABResource/Sprite/SM/SMShow/3.png
+- Assets/Resources/ABResource/Sprite/SM/SMShow/1.png
+- Assets/Resources/ABResource/Sprite/SM/SMShow/9.png
+- Assets/Resources/ABResource/Sprite/SM/SMShow/7.png
+- Assets/Resources/ABResource/Sprite/SM/SMShow/2.png
+- Assets/Resources/ABResource/Sprite/SM/SMShow/6.png
+- Assets/Resources/ABResource/Sprite/SM/SMShow/8.png
+- Assets/Resources/ABResource/Sprite/SM/SMShow/4.png
+Dependencies: []

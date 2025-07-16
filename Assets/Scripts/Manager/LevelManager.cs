@@ -41,7 +41,7 @@ public class LevelManager : MonoSingleton<LevelManager>
     Dictionary<int, TagData> superheroTagDic = new Dictionary<int, TagData>();
     Dictionary<int, LevelData> xpLevel = new Dictionary<int, LevelData>();
     Dictionary<int, LevelData> eqLevel = new Dictionary<int, LevelData>();
-
+  
 
     Dictionary<GameType, Dictionary<int, LevelData>> levelDic = new Dictionary<GameType, Dictionary<int, LevelData>>();
     Dictionary<GameType, Dictionary<int, TagData>> levelTagDic = new Dictionary<GameType, Dictionary<int, TagData>>();
@@ -156,7 +156,24 @@ public class LevelManager : MonoSingleton<LevelManager>
         levelDic.Add(gameType, dic);
 
     }
+    public int Getlevel(string key)
+    {
+        Debug.Log("11");
+        SaveManager saveManager = SaveManager.Instance;
+        return saveManager.LoadLevel(key);
+    }
 
+    public Dictionary<int,int> GetTapCount(string key)
+    {
+        SaveManager saveManager = SaveManager.Instance;
+        return saveManager.LoadTapCount(key);
+    }
+
+    public void SaveData(string key,int level,Dictionary<int,int>tapCount = null)
+    {
+        //SaveManager saveManager = SaveManager.Instance;
+        SaveManager.Instance.SaveGame(key, level, tapCount);
+    }
     public int GetSelectionLevelTotalNum(GameType gameType)
     {
         int num = 0;

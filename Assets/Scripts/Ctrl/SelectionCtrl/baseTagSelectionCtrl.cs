@@ -47,6 +47,7 @@ public class BaseTagSelectionCtrl : MonoBehaviour, IController
 
     //ViewData
     public int nowSelect = 0;
+    // 存放虚假的百分比信息
     public LevelData levelData;
     [SerializeField]
     public string percentNextText = "Text_PecentNext", 
@@ -121,11 +122,18 @@ public class BaseTagSelectionCtrl : MonoBehaviour, IController
     virtual public void GetModel()
     {
         m_Model = this.GetModel<SelectionModel>(); //获取model
-        m_Model.level = 0;
+       
+        
+        levelManager = LevelManager.Instance;
+        string childClassName = this.GetType().Name;
+        m_Model.level = levelManager.Getlevel(childClassName);
+        m_Model.tabCount = levelManager.GetTapCount(childClassName);
+        Debug.Log(m_Model.level);
+        //m_Model.level = 0;
         m_Model.gameType = gameType;
         m_Model.showAll = false;
     }
-
+    
     virtual public void SetModelType()
     {
         m_Model.tabCount.Clear();
@@ -223,6 +231,12 @@ public class BaseTagSelectionCtrl : MonoBehaviour, IController
         this.RegisterEvent<CloseGameUIEvent>(e =>
         {
             ReturnToLevelList();
+            levelManager.SaveData(this.GetType().Name, 0, m_Model.tabCount);
+        }).UnRegisterWhenGameObjectDestroyed(gameObject);
+        this.RegisterEvent<CloseGameUISaveEvent>(e =>
+        {
+            ReturnToLevelList();
+            levelManager.SaveData(this.GetType().Name, m_Model.level, m_Model.tabCount);
         }).UnRegisterWhenGameObjectDestroyed(gameObject);
     }
 
@@ -585,7 +599,7 @@ public class BaseTagSelectionCtrl : MonoBehaviour, IController
             ImagePercent_4.fillAmount = 0;
             ImagePercent_4.DOFillAmount(levelData.SelectPercent_4 / 100, fillTime);
         }
-        //Debug.Log("levelData " + levelData.Question + "  " + levelData.SelectPercent_1);
+        
 
     }
 

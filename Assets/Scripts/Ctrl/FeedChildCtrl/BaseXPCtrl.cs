@@ -127,7 +127,11 @@ public class BaseXPCtrl : MonoBehaviour, IController
     virtual public void GetModel()
     {
         m_Model = this.GetModel<SelectionModel>(); //获取model
-        m_Model.level = 0;
+        levelManager = LevelManager.Instance;
+        string childClassName = this.GetType().Name;
+        m_Model.level = levelManager.Getlevel(childClassName);
+        m_Model.tabCount = levelManager.GetTapCount(childClassName);
+
 
     }
 
@@ -242,6 +246,12 @@ public class BaseXPCtrl : MonoBehaviour, IController
         this.RegisterEvent<CloseGameUIEvent>(e =>
         {
             ReturnToLevelList();
+            levelManager.SaveData(this.GetType().Name, 0, m_Model.tabCount);
+        }).UnRegisterWhenGameObjectDestroyed(gameObject);
+        this.RegisterEvent<CloseGameUISaveEvent>(e =>
+        {
+            ReturnToLevelList();
+            levelManager.SaveData(this.GetType().Name, m_Model.level, m_Model.tabCount);
         }).UnRegisterWhenGameObjectDestroyed(gameObject);
     }
 
